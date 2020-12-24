@@ -1,0 +1,10 @@
+D:\VisualStudio\[14] Tugas\bin\Debug\[14] Tugas.exe.config
+D:\VisualStudio\[14] Tugas\bin\Debug\[14] Tugas.exe
+D:\VisualStudio\[14] Tugas\bin\Debug\[14] Tugas.pdb
+D:\VisualStudio\[14] Tugas\obj\Debug\[14] Tugas.csprojAssemblyReference.cache
+D:\VisualStudio\[14] Tugas\obj\Debug\_14__Tugas.Form1.resources
+D:\VisualStudio\[14] Tugas\obj\Debug\_14__Tugas.Properties.Resources.resources
+D:\VisualStudio\[14] Tugas\obj\Debug\[14] Tugas.csproj.GenerateResource.cache
+D:\VisualStudio\[14] Tugas\obj\Debug\[14] Tugas.csproj.CoreCompileInputs.cache
+D:\VisualStudio\[14] Tugas\obj\Debug\[14] Tugas.exe
+D:\VisualStudio\[14] Tugas\obj\Debug\[14] Tugas.pdb
